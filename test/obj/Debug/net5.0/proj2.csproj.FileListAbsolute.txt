@@ -1,0 +1,13 @@
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/proj2.deps.json
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/proj2.runtimeconfig.json
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/proj2.runtimeconfig.dev.json
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/proj2.dll
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/ref/proj2.dll
+/Users/seung/Desktop/backend/c#begin/proj2/bin/Debug/net5.0/proj2.pdb
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.csproj.AssemblyReference.cache
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.csproj.CoreCompileInputs.cache
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.dll
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/ref/proj2.dll
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.pdb
+/Users/seung/Desktop/backend/c#begin/proj2/obj/Debug/net5.0/proj2.genruntimeconfig.cache

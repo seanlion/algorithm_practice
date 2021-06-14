@@ -1,0 +1,15 @@
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.csproj.AssemblyReference.cache
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.AssemblyInfoInputs.cache
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.AssemblyInfo.cs
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.csproj.CoreCompileInputs.cache
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/algo.deps.json
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/algo.runtimeconfig.json
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/algo.runtimeconfig.dev.json
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/algo.dll
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/ref/algo.dll
+/Users/seung/Desktop/backend/c#begin/algo/bin/Debug/net5.0/algo.pdb
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.dll
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/ref/algo.dll
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.pdb
+/Users/seung/Desktop/backend/c#begin/algo/obj/Debug/net5.0/algo.genruntimeconfig.cache
