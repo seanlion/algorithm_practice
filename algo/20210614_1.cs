@@ -1,6 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 using System.Linq;
+// 신규 아이디 추천 : https://programmers.co.kr/learn/courses/30/lessons/72410
 public class Solution_20210614_1
 {
     public string solution(string new_id)
@@ -8,7 +9,7 @@ public class Solution_20210614_1
         string lower_str = new_id.ToLower();
         lower_str = Regex.Replace(lower_str, "[^a-z0-9-_.]", String.Empty);
         int cnt = 0;
-        string ch = "..";
+        // string ch = "..";
         bool res = true;
         while (res){
             cnt = Regex.Matches(lower_str, @"\.\.").Count;
